@@ -18,6 +18,6 @@ Here is the explanation of column names found in the peak detection result ("IRF
 12. "fold.max" is the foldchange calculated from chip.max Vs control.max </br>
 
 To generate motif logos, the script "sRunMotifGeneration.R" has to be executed in the terminal of R statistical software.
-This script requires MEME format as the input (please see the example of format in the "example.data/Demo.meme.result.txt"). The script will automatically generates motif logos in both forward and reverse complementary strands and save the file in PDF format (see the file "example.data/Demo.meme.result.txt.logo.pdf" as the example output).
+This script requires MEME format as the input (please see the example of format in the "example.data/Demo.meme.result.txt"). The script will automatically generates motif logos in both forward and reverse complementary strands and will save the file in PDF format (see the file "example.data/Demo.meme.result.txt.logo.pdf" as the example output).
 
 Please contact supat.thongjuea@gmail.com
